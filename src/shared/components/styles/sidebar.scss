@@ -1,0 +1,20 @@
+.side-bar-background-image-style {
+  background: linear-gradient(rgba(0, 27, 67, 0.98), rgba(0, 15, 102, 0.8)),
+    url("../../../resources//login_bg.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 .5rem 0.8rem rgba(0,0,0,.6)!important;
+}
+
+.side-bar-logo-image-style{
+  filter: grayscale(50%);
+}
+
+// rgba(0, 13, 87, 0.85)
+// rgb(0 18 118 / 85%)
+// rgb(0 15 102 / 85%)
+// 001b55
+// 001a53
+
+// rgb(0 62 155 / 55%)

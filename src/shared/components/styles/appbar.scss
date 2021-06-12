@@ -1,0 +1,26 @@
+.appbar-backcolor .MuiAppBar-colorPrimary {
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 27, 67, 0.98),
+    rgba(0, 62, 155, 0.55)
+  );
+}
+
+.appbar-backcolor-rtl .MuiAppBar-colorPrimary {
+  background-image: linear-gradient(
+    to left,
+    rgba(0, 27, 67, 0.98),
+    rgba(0, 62, 155, 0.55)
+  );
+}
+
+.notification-badge-font .MuiBadge-colorSecondary {
+  font-weight: 700 !important;
+  color: rgb(71, 71, 71) !important;
+}
+
+// rgb(0 25 79)
+// rgb(0 27 85)
+// rgb(0 62 155 / 55%)
+
+// background-image: linear-gradient(to right, rgba(0,27,67,0.98), rgb(0 62 155 / 55%));

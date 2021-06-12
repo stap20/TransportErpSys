@@ -1,0 +1,25 @@
+.rounded-confirm-btn {
+  border-radius: 300px !important;
+  padding-left: 1.5em !important;
+  padding-right: 1.5em !important;
+  transition: all 250ms !important;
+  &:hover {
+    color: white !important;
+    color: #ffffff;
+    background: #0277bd !important;
+    background-color: #0277bd !important;
+  }
+}
+
+.rounded-cancel-btn {
+  border-radius: 300px !important;
+  padding-left: 1.5em !important;
+  padding-right: 1.5em !important;
+  transition: all 250ms !important;
+  &:hover {
+    color: white !important;
+    color: #ffffff;
+    background: #ff835c !important;
+    background-color: #ff835c !important;
+  }
+}

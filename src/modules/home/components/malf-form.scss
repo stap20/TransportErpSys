@@ -1,0 +1,10 @@
+.errorText .MuiFormHelperText-root .Mui-error {
+  font-size: 0.6em !important;
+}
+
+.delete-icon {
+  color: rgba(255, 131, 92, 0.6) !important;
+  &:hover {
+    color: rgba(255, 131, 92, 1) !important;
+  }
+}

@@ -1,0 +1,37 @@
+.main-content {
+  width: 55%;
+  display: flex;
+}
+
+.card {
+  border: 0px;
+  border-radius: 7px;
+}
+.card-img {
+  min-height: 29.9em;
+  border-radius: 5.9px;
+}
+
+.back-ground-image-style {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("./login_bg.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 12em;
+}
+.back-ground-login-coverimage-style {
+  background: linear-gradient(rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.68)),
+    url("./login_cv.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.inputRounded .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border-radius: 50px;
+}
+
+.inputLabel .MuiFormLabel-root {
+  color: #afafaf;
+}
